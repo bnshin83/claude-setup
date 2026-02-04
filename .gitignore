@@ -1,0 +1,16 @@
+# Audit logs (local only)
+.claude/audit/
+
+# Session-specific memory (optional - uncomment if you want memory tracked)
+# .claude/memory/context.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
